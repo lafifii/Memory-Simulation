@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\proyectos2ciclo\trabajoparcial20181\project1\MyForm.h(1185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\proyectos2ciclo\trabajoparcial20181\project1\MyForm.h(1199): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+c:\users\user\desktop\proyectos2ciclo\trabajoparcial20181\project1\MyForm.h(1249): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+c:\users\user\desktop\proyectos2ciclo\trabajoparcial20181\project1\MyForm.h(1256): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  Memoria.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project1.vcxproj -> C:\Users\user\Desktop\Proyectos2ciclo\TrabajoParcial20181\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\user\Desktop\Proyectos2ciclo\TrabajoParcial20181\Debug\Project1.pdb (Partial PDB)
